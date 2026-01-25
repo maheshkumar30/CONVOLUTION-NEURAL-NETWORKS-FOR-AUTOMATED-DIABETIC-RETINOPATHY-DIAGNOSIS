@@ -1,0 +1,2 @@
+python Retinopathy.py
+pause
